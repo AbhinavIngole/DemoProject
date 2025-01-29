@@ -1,3 +1,3 @@
 # DemoProject
 MyFirstREpo
-Authoe - Abhnav Ingole
+Author - Abhnav Ingole
